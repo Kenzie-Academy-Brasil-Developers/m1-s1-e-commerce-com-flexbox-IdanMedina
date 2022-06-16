@@ -86,8 +86,8 @@
   justify-content: center;
   align-items: center;
   display: flex;
-  width: 90%;
-  height: 90%;}
+  width: 95%;
+  height: 95%;}
 
   .image-y {
     justify-content: center;
@@ -101,15 +101,18 @@
   width: auto;
   height: auto;
   font-family: "Inter", sans-serif;
-  font-size: 16px;
-  line-height: 30px;
+  font-size: 15px;
+  line-height: 28px;
   margin: 14px;
+  overflow: hidden;
   text-overflow:ellipsis ;
 }
 .price {
   font-weight: bold;
   font-family: "Inter", sans-serif;
   margin-right: auto;
+  font-size: 15px;
+  line-height: 28px;
 }
 .card-button {
   width: 80%;
